@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/ShortCut">
+        <file>images/log-in.png</file>
+        <file>images/login_back.jpg</file>
+        <file>images/search.ico</file>
+        <file>images/del.ico</file>
+        <file>images/add.JPG</file>
+        <file>images/detail.JPG</file>
+        <file>images/reset.png</file>
+        <file>images/printer-blue.ico</file>
+    </qresource>
+</RCC>

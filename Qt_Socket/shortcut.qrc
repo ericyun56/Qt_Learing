@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/shortcut">
+        <file>images/printer-blue.ico</file>
+    </qresource>
+</RCC>
